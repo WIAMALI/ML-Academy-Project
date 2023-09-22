@@ -30,8 +30,8 @@ This can be a concern for machine learning models, as they can be biassed toward
 ![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/86ce47a9-2f5b-49a5-a963-720560042dac)
 
 
-# Extracting insights
-- Explore Numerical Variables
+# Inferences
+- Exploring
 
 
      ![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/020a6cd6-4547-4770-9a2d-c0bfb75b8a20)
@@ -98,7 +98,9 @@ This information can be used to identify areas that may require greater examinat
 
     Model accuracy score: 0.5641
 
-  
+
+
+
   ![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/5d0dfe35-7b34-4d2c-9689-9683f040fc3c)
 
 
