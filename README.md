@@ -108,9 +108,8 @@ This information can be used to identify areas that may require greater examinat
 # Conclusion
 
 - client_catg: 51 have the highest percentage of being fraud, but also have the lowest record, so we need more data on this.
-- disrict: 69 and 63 have the highest percentage of being fraud (over 7% and 6.5%), while 60 have the lowest (3.5%).
 - region: Based on data, regions 103, 372, and 311 are not safe from fraud, with more than 10% of cases of fraud. Regions 101 and 301 are safe, considering they have a low percentage of fraud with high transactions. Regions 199, 399, and 206 are safe, but they also have only some records of transactions, not as many as the others.
-- counter_statue: 5 has the highest value (>10%) even though it has a really low transaction record.
+- counter_statue: 4 has the highest value (>10%) even though it has a really low transaction record.
 
   
    # Note
