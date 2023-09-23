@@ -8,13 +8,13 @@ A crucial problem that these companies face is the imbalance between the energy 
 
 The dataset contains two tables: The first is about Clients data and whether it has been labelled as fraud or not. The second table shows all invoices for these clients with information.
 
----------------------------------------------
+
 
 # Overview
 
 The main goal of this project is to feed data into a machine learning model that will classify transactions as fraudulent or honest.
 
----------------------------------------------
+
 
 
 # Data Preprocessing and Visualization
@@ -80,7 +80,7 @@ This information can be used to identify areas that may require greater examinat
 
 
 
---------
+
 
 
 # Comparision Models and Results
