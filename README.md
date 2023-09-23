@@ -22,12 +22,12 @@ STEG's data is divided into two files. The first comprises client information, a
 
 After doing some preprocessing and visualisation for each dataset, we combined the client and invoice datasets. This produced an imbalanced dataset.
 
-![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/ed11d397-3669-4b4f-b298-1b754ffe1ce3)
+   ![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/ed11d397-3669-4b4f-b298-1b754ffe1ce3)
 
 
 This can be a concern for machine learning models, as they can be biassed towards the dominant class. Over- or under-sampling strategies can be used to deal with this problem.
 
-![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/86ce47a9-2f5b-49a5-a963-720560042dac)
+   ![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/86ce47a9-2f5b-49a5-a963-720560042dac)
 
 
 # Inferences
