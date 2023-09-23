@@ -41,6 +41,8 @@ This can be a concern for machine learning models, as they can be biassed toward
 
     The plot shows the proportion of counter type (electricity to gas) for the Tunisian Company of Electricity and Gas (STEG). The client prefers counter-type ELEC rather than GAZ. Other than that, the difference between fraud percentages is small.
 
+   This information can be used to identify which type of counter may require greater examination or monitoring in order to prevent fraud.
+
     --------
 
      ![image](https://github.com/WIAMALI/ML-Academy-Project/assets/104154401/0771946b-f6ab-417f-8ab4-17dbea084700)
@@ -51,6 +53,7 @@ This can be a concern for machine learning models, as they can be biassed toward
     - Most frauds (by percentage) are from client_catg 51, with over 17%..
     - According to the data, client_catg 51 is not safe, and client_catg 12 is probably the safest.
 
+   This information can be used to identify the category the client belongs to. It can also aid in spotting trends or patterns in each client category, which can then be used to inform them on how to avoid or reduce fraudulent activities.
 
     --------
 
@@ -75,7 +78,7 @@ This can be a concern for machine learning models, as they can be biassed toward
      - Regions 199, 399, and 206 are safe, but they also have only some records of transactions, not as many as the others.
 
 
-This information can be used to identify areas that may require greater examination or monitoring in order to prevent fraud. It can also aid in spotting trends or patterns in fraudulent activity across multiple locations, which can then be used to inform the creation of future efforts to avoid or reduce fraudulent activities.
+   This information can be used to identify areas that may require greater examination or monitoring in order to prevent fraud. It can also aid in spotting trends or patterns in fraudulent activity across multiple locations, which can then be used to inform the creation of future efforts to avoid or reduce fraudulent activities.
 
 
 
